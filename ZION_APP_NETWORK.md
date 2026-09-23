@@ -9,11 +9,10 @@ Node of the **Zion AI App Network** — 678+ interconnected AI apps, tools and f
 - 🌐 Live: https://ziontechgroup.com/zion-field/
 - 📅 Discovery: https://ziontechgroup.com/discovery/
 
-## Field satellite desks
+## Related field nodes
 - https://github.com/Zion-support/zion-field-brazil
 - https://github.com/Zion-support/zion-field-canada
 - https://github.com/Zion-support/zion-field-china
-- https://github.com/Zion-support/zion-field-chile
 - https://github.com/Zion-support/zion-field-energy
 - https://github.com/Zion-support/zion-field-chemicals
 - https://github.com/Zion-support/zion-field-cinema
